@@ -1,5 +1,5 @@
 ## Wallpanel Plus
-WallPanel Plus is an kiosk browser for android that is based off wallpanel, it still gets maintained unlike wallpanel! You can download the application to your Android device from the [release section].
+WallPanel Plus is an kiosk browser for android that is based off wallpanel, it still gets maintained unlike wallpanel! You can download the application to your Android device from the release section.
 
 ## Screenshots
 
