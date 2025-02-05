@@ -1,4 +1,6 @@
 ## Wallpanel Plus
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/j-a-n/lovelace-wallpanel?style=for-the-badge)](https://github.com/undebuggedprogrammer/wallpanel-plus/releases)
+[![GitHub stars](https://img.shields.io/github/stars/j-a-n/lovelace-wallpanel?color=yellow&style=for-the-badge)]([https://github.com/undebuggedprogrammer/wallpanel-plus/stargazers]
 WallPanel Plus is an kiosk browser for android that is based off wallpanel, it still gets maintained unlike wallpanel! You can download the application to your Android device from the release section.
 
 ## Screenshots
