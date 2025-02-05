@@ -17,6 +17,8 @@
     src="https://api.star-history.com/svg?repos=undebuggedprogrammer/wallpanel-plus&type=Date"
   />
 </picture>
+
+
 WallPanel Plus is an kiosk browser for android that is based off wallpanel, it still gets maintained unlike wallpanel! You can download the application to your Android device from the release section.
 
 ## Screenshots
