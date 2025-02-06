@@ -13,7 +13,7 @@ Steps to reproduce the behavior:
 
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. Samsun, Android, Fire Tablet]
- - OS: [e.g. Android 21, Oreo, Fire OS 7]
- - Applicaiton version [app > settings > version]
+ - Device: [e.g. Samsung, Android, Fire Tablet]
+ - OS: [e.g. Android 15, Oreo, Fire OS 7]
+ - Application version [app > settings > version]
 
