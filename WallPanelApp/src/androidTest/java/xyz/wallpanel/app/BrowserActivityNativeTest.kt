@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package xyz.wallpanel.app
+package xyz.wallpanel-plus.app.WallPanel-Plus
 
-import xyz.wallpanel.app.utils.BrowserUtils
+import xyz.wallpanel-plus.app.utils.BrowserUtils
 import junit.framework.TestCase
 
 import org.junit.After
